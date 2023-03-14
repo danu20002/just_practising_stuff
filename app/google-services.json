@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428777551507",
+    "project_id": "practising-everything",
+    "storage_bucket": "practising-everything.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428777551507:android:a160d44fb59fb4edacff66",
+        "android_client_info": {
+          "package_name": "com.example.practisingeverything"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428777551507-4tgocj3cjdkqjq1num338j68uoqmqngn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK3M2GwT0HpQEqTOpiY0I5RKygsf3mm8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428777551507-4tgocj3cjdkqjq1num338j68uoqmqngn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
